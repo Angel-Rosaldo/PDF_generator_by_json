@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\angel\\Desktop\\Trabajo\\Pendiente\\PDFS-PROYECT\\ReportesAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5F36C9-6132-4C7C-AAD8-E5466EEDD35F}|ReportesAPI\\ReportesAPI.csproj|c:\\users\\angel\\desktop\\trabajo\\pendiente\\pdfs-proyect\\reportesapi\\reportesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF5F36C9-6132-4C7C-AAD8-E5466EEDD35F}|ReportesAPI\\ReportesAPI.csproj|solutionrelative:reportesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5F36C9-6132-4C7C-AAD8-E5466EEDD35F}|ReportesAPI\\ReportesAPI.csproj|c:\\users\\angel\\desktop\\trabajo\\pendiente\\pdfs-proyect\\reportesapi\\reportesapi\\reports\\xtrareport1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF5F36C9-6132-4C7C-AAD8-E5466EEDD35F}|ReportesAPI\\ReportesAPI.csproj|solutionrelative:reportesapi\\reports\\xtrareport1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5F36C9-6132-4C7C-AAD8-E5466EEDD35F}|ReportesAPI\\ReportesAPI.csproj|c:\\users\\angel\\desktop\\trabajo\\pendiente\\pdfs-proyect\\reportesapi\\reportesapi\\reports\\xtrareport1.cs||{95027D70-C6B4-4736-8A48-AD3582187321}",
+      "RelativeMoniker": "D:0:0:{AF5F36C9-6132-4C7C-AAD8-E5466EEDD35F}|ReportesAPI\\ReportesAPI.csproj|solutionrelative:reportesapi\\reports\\xtrareport1.cs||{95027D70-C6B4-4736-8A48-AD3582187321}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5F36C9-6132-4C7C-AAD8-E5466EEDD35F}|ReportesAPI\\ReportesAPI.csproj|c:\\users\\angel\\desktop\\trabajo\\pendiente\\pdfs-proyect\\reportesapi\\reportesapi\\controllers\\reportescontroller.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF5F36C9-6132-4C7C-AAD8-E5466EEDD35F}|ReportesAPI\\ReportesAPI.csproj|solutionrelative:reportesapi\\controllers\\reportescontroller.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5F36C9-6132-4C7C-AAD8-E5466EEDD35F}|ReportesAPI\\ReportesAPI.csproj|c:\\users\\angel\\desktop\\trabajo\\pendiente\\pdfs-proyect\\reportesapi\\reportesapi\\controllers\\testreportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF5F36C9-6132-4C7C-AAD8-E5466EEDD35F}|ReportesAPI\\ReportesAPI.csproj|solutionrelative:reportesapi\\controllers\\testreportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5F36C9-6132-4C7C-AAD8-E5466EEDD35F}|ReportesAPI\\ReportesAPI.csproj|c:\\users\\angel\\desktop\\trabajo\\pendiente\\pdfs-proyect\\reportesapi\\reportesapi\\controllers\\testreportdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF5F36C9-6132-4C7C-AAD8-E5466EEDD35F}|ReportesAPI\\ReportesAPI.csproj|solutionrelative:reportesapi\\controllers\\testreportdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\Desktop\\Trabajo\\Pendiente\\PDFS-PROYECT\\ReportesAPI\\ReportesAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ReportesAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\angel\\Desktop\\Trabajo\\Pendiente\\PDFS-PROYECT\\ReportesAPI\\ReportesAPI\\Program.cs",
+              "RelativeToolTip": "ReportesAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T15:46:33.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "XtraReport1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\Desktop\\Trabajo\\Pendiente\\PDFS-PROYECT\\ReportesAPI\\ReportesAPI\\Reports\\XtraReport1.Designer.cs",
+              "RelativeDocumentMoniker": "ReportesAPI\\Reports\\XtraReport1.Designer.cs",
+              "ToolTip": "C:\\Users\\angel\\Desktop\\Trabajo\\Pendiente\\PDFS-PROYECT\\ReportesAPI\\ReportesAPI\\Reports\\XtraReport1.Designer.cs",
+              "RelativeToolTip": "ReportesAPI\\Reports\\XtraReport1.Designer.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAIwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T15:36:03.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TestReportController.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\Desktop\\Trabajo\\Pendiente\\PDFS-PROYECT\\ReportesAPI\\ReportesAPI\\Controllers\\TestReportController.cs",
+              "RelativeDocumentMoniker": "ReportesAPI\\Controllers\\TestReportController.cs",
+              "ToolTip": "C:\\Users\\angel\\Desktop\\Trabajo\\Pendiente\\PDFS-PROYECT\\ReportesAPI\\ReportesAPI\\Controllers\\TestReportController.cs",
+              "RelativeToolTip": "ReportesAPI\\Controllers\\TestReportController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T15:29:21.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TestReportDataController.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\Desktop\\Trabajo\\Pendiente\\PDFS-PROYECT\\ReportesAPI\\ReportesAPI\\Controllers\\TestReportDataController.cs",
+              "RelativeDocumentMoniker": "ReportesAPI\\Controllers\\TestReportDataController.cs",
+              "ToolTip": "C:\\Users\\angel\\Desktop\\Trabajo\\Pendiente\\PDFS-PROYECT\\ReportesAPI\\ReportesAPI\\Controllers\\TestReportDataController.cs",
+              "RelativeToolTip": "ReportesAPI\\Controllers\\TestReportDataController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T15:22:48.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReportesController.cs.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\Desktop\\Trabajo\\Pendiente\\PDFS-PROYECT\\ReportesAPI\\ReportesAPI\\Controllers\\ReportesController.cs.cs",
+              "RelativeDocumentMoniker": "ReportesAPI\\Controllers\\ReportesController.cs.cs",
+              "ToolTip": "C:\\Users\\angel\\Desktop\\Trabajo\\Pendiente\\PDFS-PROYECT\\ReportesAPI\\ReportesAPI\\Controllers\\ReportesController.cs.cs",
+              "RelativeToolTip": "ReportesAPI\\Controllers\\ReportesController.cs.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAowCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T18:15:12.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "XtraReport1.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\Desktop\\Trabajo\\Pendiente\\PDFS-PROYECT\\ReportesAPI\\ReportesAPI\\Reports\\XtraReport1.cs",
+              "RelativeDocumentMoniker": "ReportesAPI\\Reports\\XtraReport1.cs",
+              "ToolTip": "C:\\Users\\angel\\Desktop\\Trabajo\\Pendiente\\PDFS-PROYECT\\ReportesAPI\\ReportesAPI\\Reports\\XtraReport1.cs",
+              "RelativeToolTip": "ReportesAPI\\Reports\\XtraReport1.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T18:11:28.13Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
